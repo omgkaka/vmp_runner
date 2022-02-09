@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="mfc_algo_demo.exe" Options="1021896">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="MD5::MD5Transform(unsigned long * const,unsigned char * const)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="MD5::Update(unsigned char *,unsigned int)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="CmfcalgodemoDlg::OnBnClickedOk(void)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_memset" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_memmove" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_memcpy" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_memcmp" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_sprintf" Options="0" CompilationType="2" />
+            <Procedure MapAddress="_toupper" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>
